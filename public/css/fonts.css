@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Krabuler';
+    src: url('../fonts/krabuler/RF-Krabuler-Regular.woff2') format('woff2'),
+         url('../fonts/krabuler/RF-Krabuler-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
