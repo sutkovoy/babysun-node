@@ -8,7 +8,7 @@ jQuery(document).ready(function($){
   
   setInterval(function(){
     duration = moment.duration(duration - interval, 'milliseconds');
-    $('.countdown').text(duration.months() + monthsText(duration.months()) + duration.days() + daysText(duration.days()) + duration.hours() + hoursText(duration.hours()) + duration.minutes() + minText(duration.minutes()));
+    $('.countdown').text(duration.months() + monthsText(duration.months()) + duration.days() + daysText(duration.days()) + duration.hours() + hoursText(duration.hours()));
   }, interval);
   
   function monthsText(months) {
