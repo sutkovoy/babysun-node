@@ -62,8 +62,11 @@ jQuery(document).ready(function($){
   function minText(min) {
     if(!min || min > 51) return ' хвилин ';
     if(min === 1) return ' хвилина ';
-    if(min > 1 && min < 51) return ' хвилин ';
+    if(min === 21) return ' хвилина ';
+    if(min === 31) return ' хвилина ';
+    if(min === 41) return ' хвилина ';
     if(min === 51) return ' хвилина ';
+    if(min > 1 && min < 51) return ' хвилин ';
     
   }
   
