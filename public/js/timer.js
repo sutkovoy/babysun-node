@@ -53,10 +53,14 @@ jQuery(document).ready(function($){
   }
   
   function hoursText(hours) {
-    if(!hours) return ' часов ';
-    if(hours === 1) return ' час ';
-    if(hours === 2 || hours === 3 || hours === 4) return ' часа ';
-    if(hours > 4) return ' часов ';
+    if(!hours) return ' годин ';
+    if(hours === 1) return ' година ';
+    if(hours === 2 || hours === 3 || hours === 4) return ' години ';
+    if(hours === 21) return ' година ';
+    if(hours === 22) return ' години ';
+    if(hours === 23) return ' години ';
+    if(hours === 24) return ' години ';
+    if(hours > 4) return ' годин ';
   }
   
   function minText(min) {
