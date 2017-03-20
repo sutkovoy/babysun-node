@@ -94,7 +94,6 @@ jQuery(document).ready(function (){
 	jQuery( ".cws_ce_content.ce_tabs" ).cws_tabs ();
 	jQuery( ".cws_ce_content.ce_accordion" ).cws_accordion ();
 	jQuery( ".cws_ce_content.ce_toggle" ).cws_toggle ( "accordion_section", "accordion_title", "accordion_content" );
-	cws_twitter_carousel ();
 	calendar_ui ();
 	add_button ();
 	shop_list_grid ();
@@ -2439,25 +2438,4 @@ function calendar_ui () {
 }
   
 
-/*twitter carousel*/
-function cws_twitter_carousel () {
-  jQuery('.twitter-carousel').tweet({
-    username: 'Creative_WS',
-    count: 9,
-    loading_text: 'loading twitter feed...',
-    template: "<a class='fa fa-twitter follow_us' href='{user_url}'></a><p class='tweet_content'>{join}{text}</p>"
-  });
-
-  jQuery('.twitter-carousel .tweet_list').WrapThis(3, 'li');
-
-  jQuery(".twitter-carousel .tweet_list").each(function (){
-    jQuery(this).owlCarousel({
-      items: 1,
-      singleItem:true,
-      navigation: false,
-      pagination: true,
-    });
-  });
-
-}
 
