@@ -13,7 +13,7 @@ jQuery(document).ready(function($){
   
   function monthsText(months) {
     if(!months) return ' місяців ';
-    if(months === 2) return ' місяця ';
+    if(months === 2) return ' місяці ';
     if(months === 1) return ' місяць ';
   }
   
