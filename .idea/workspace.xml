@@ -128,7 +128,7 @@
         <entry file="file://$PROJECT_DIR$/views/partials/header.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="28" column="205" selection-start-line="28" selection-start-column="205" selection-end-line="28" selection-end-column="205" />
+              <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -415,12 +415,12 @@
       <workItem from="1490190806825" duration="38000" />
       <workItem from="1490191058742" duration="12000" />
       <workItem from="1490191384063" duration="12000" />
-      <workItem from="1490448517724" duration="46000" />
+      <workItem from="1490448517724" duration="247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22585000" />
+    <option name="totallyTimeSpent" value="22786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="713" extended-state="6" />
@@ -789,7 +789,7 @@
     <entry file="file://$PROJECT_DIR$/views/partials/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="28" column="205" selection-start-line="28" selection-start-column="205" selection-end-line="28" selection-end-column="205" />
+          <caret line="28" column="57" selection-start-line="28" selection-start-column="57" selection-end-line="28" selection-end-column="57" />
           <folding />
         </state>
       </provider>
