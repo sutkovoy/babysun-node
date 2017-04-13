@@ -55,7 +55,7 @@ main{
 	width:100%;
 }
 .page_content:not(:empty){
-	padding: 35px 0;
+	padding: 20px 0;
 }
 .page_content.single_sidebar main{
 	width:870px;
