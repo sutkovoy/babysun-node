@@ -395,20 +395,6 @@ function cws_top_social_icon_animation (){
 				zIndex:dist
 			});
 			
-			TweenMax.to(cur,0.5*(dist),{
-				x:coefDir*pos*spacing,
-				scale:1,
-				ease:Elastic.easeOut,
-				easeParams:[1.01,0.5]
-			});
-				
-			TweenMax.fromTo(cur.find(".share-icon"),0.2,{
-				scale:0
-			},{
-				delay:(0.2*dist)-0.1,
-				scale:1.0,
-				ease:Quad.easeInOut
-			})
 		})
 	}
 	function closeShareMenu(){
@@ -420,17 +406,7 @@ function cws_top_social_icon_animation (){
 			cur.css({
 				zIndex:dist
 			});
-
-			TweenMax.to(cur,0.4+((buttonsMid-dist)*0.1),{
-				x:0,
-				scale:1,
-				ease:Quad.easeInOut,
-			});
-				
-			TweenMax.to(cur.find(".share-icon"),0.2,{
-				scale:0,
-				ease:Quad.easeIn
-			});
+			
 		})
 	}
 
@@ -456,7 +432,6 @@ function cws_icon_popup_init (){
 			var on=false;
 			var slice;
 			var iangle;
-			TweenMax.globalTimeScale(0.8);
 
 			var button = jQuery(this).find(".link-toggle-button")
 
@@ -485,11 +460,6 @@ function cws_icon_popup_init (){
 			function pressHandler(event){
 				on=!on;
 				link_item = jQuery(this).find('.link')
-				TweenMax.to(jQuery(this).children('.link-toggle-button').children('.link-toggle-icon'),0.4,{
-					rotation:on?45:0,
-					ease:Quint.easeInOut,
-					force3D:true
-				});
 
 				if (event['type'] == 'mouseenter') {
 					openMenu(link_item)
@@ -501,81 +471,13 @@ function cws_icon_popup_init (){
 			}
 			function openMenu(link_item){
 				link_item.each(function(i){
-					var delay=i*0.08;
-					var $bounce=jQuery(this).children(".link-item-bounce");
-					TweenMax.fromTo($bounce,0.2,{
-						transformOrigin:"50% 50%"
-					},{
-						delay:delay,
-						scaleX:0.8,
-						scaleY:1.2,
-						force3D:true,
-						ease:Quad.easeInOut,
-						onComplete:function(){
-							TweenMax.to($bounce,0.15,{
-								// scaleX:1.2,
-								scaleY:0.7,
-								force3D:true,
-								ease:Quad.easeInOut,
-								onComplete:function(){
-									TweenMax.to($bounce,3,{
-										// scaleX:1,
-										scaleY:0.8,
-										force3D:true,
-										ease:Elastic.easeOut,
-										easeParams:[1.1,0.12]
-									})
-								}
-							})
-						}
-					});
 
-					TweenMax.to(jQuery(this).children("a"),0.5,{
-						delay:delay,
-						y:distance,
-						force3D:true,
-						ease:Quint.easeInOut
-					});
 				})
 			}
 			function closeMenu(link_item){
 				link_item.each(function(i){
 					var delay=i*0.08;
 					var $bounce=jQuery(this).children(".link-item-bounce");
-					TweenMax.fromTo($bounce,0.2,{
-						transformOrigin:"50% 50%"
-					},{
-						delay:delay,
-						scaleX:1,
-						scaleY:0.8,
-						force3D:true,
-						ease:Quad.easeInOut,
-						onComplete:function(){
-							TweenMax.to($bounce,0.15,{
-								// scaleX:1.2,
-								scaleY:1.2,
-								force3D:true,
-								ease:Quad.easeInOut,
-								onComplete:function(){
-									TweenMax.to($bounce,3,{
-										// scaleX:1,
-										scaleY:1,
-										force3D:true,
-										ease:Elastic.easeOut,
-										easeParams:[1.1,0.12]
-									})
-								}
-							})
-						}
-					});
-					
-
-					TweenMax.to(jQuery(this).children("a"),0.3,{
-						delay:delay,
-						y:0,
-						force3D:true,
-						ease:Quint.easeIn
-					});
 				})
 			}
 
