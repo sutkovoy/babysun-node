@@ -2,61 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10a47373-d526-4052-b88b-cb78f2d9f592" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/protokol_1-16_obrannya_golovy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/protokol_1-2017.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/rishennya_pro_neprebutkovist.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/statut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/statystika.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/vypiska.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/Виписка.PDF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/Протокол 1-16  обрання голови.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/Протокол 1-2017.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/Статистика.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/Статут.PDF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/pic/documents/рішення неприбутковість.pdf" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/babysitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/babysitter1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/babysitter2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/letters.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/numbers.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/objects.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/objects1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/objects2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/rainbow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/slider_devider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/babysitter/sunshine_home1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/blackboard.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/children.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/cloud-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/cloud-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/cloud-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/cloud-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/cloud-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/cloud-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/girl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/grass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/kid-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/kid-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/objects.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/objects1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/rainbow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/slider_devider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/general/sunshine_home1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/bear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/boy-without-legs.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/girl-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/girls1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/grass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/objects3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/objects4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/objects5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/stars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/stars1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/stars2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/pic/revslider/shop/sunshine_home1.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/scripts.js" afterPath="$PROJECT_DIR$/public/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/docs.hbs" afterPath="$PROJECT_DIR$/views/docs.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/partials/header.html" afterPath="$PROJECT_DIR$/views/partials/header.html" />
     </list>
     <ignored path="babysun.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,7 +69,7 @@
       <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
+            <state relative-caret-position="8143">
               <caret line="479" column="65" selection-start-line="479" selection-start-column="65" selection-end-line="479" selection-end-column="65" />
               <folding>
                 <marker date="1493060296000" expanded="true" signature="3578:3586" ph="..." />
@@ -146,7 +93,7 @@
       <file leaf-file-name="TweenMax.min.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/TweenMax.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="17">
               <caret line="13" column="197" selection-start-line="13" selection-start-column="197" selection-end-line="13" selection-end-column="197" />
               <folding />
             </state>
@@ -166,37 +113,29 @@
       <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1955">
+            <state relative-caret-position="2057">
               <caret line="121" column="97" selection-start-line="121" selection-start-column="97" selection-end-line="121" selection-end-column="97" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/partials/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="29" column="140" selection-start-line="29" selection-start-column="140" selection-end-line="29" selection-end-column="140" />
+            <state relative-caret-position="221">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="35" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docs.hbs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="docs.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/docs.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
+            <state relative-caret-position="521">
               <caret line="93" column="137" selection-start-line="93" selection-start-column="137" selection-end-line="93" selection-end-column="137" />
-              <folding>
-                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#article#1;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#article#2;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#article#3;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#article#4;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#article#5;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -233,9 +172,9 @@
         <option value="$PROJECT_DIR$/views/layout.hbs" />
         <option value="$PROJECT_DIR$/public/css/layout.css" />
         <option value="$PROJECT_DIR$/views/index.hbs" />
-        <option value="$PROJECT_DIR$/views/partials/header.html" />
         <option value="$PROJECT_DIR$/public/js/scripts.js" />
         <option value="$PROJECT_DIR$/views/docs.hbs" />
+        <option value="$PROJECT_DIR$/views/partials/header.html" />
       </list>
     </option>
   </component>
@@ -253,7 +192,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="702" />
+    <option name="height" value="699" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -303,7 +242,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -368,48 +306,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="babysun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="babysun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="babysun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="babysun" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="documents" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -527,22 +426,23 @@
       <workItem from="1492066223225" duration="487000" />
       <workItem from="1492067064216" duration="807000" />
       <workItem from="1492456746438" duration="1254000" />
-      <workItem from="1493059113981" duration="1256000" />
+      <workItem from="1493059113981" duration="1853000" />
+      <workItem from="1493104287626" duration="117000" />
+      <workItem from="1493359766085" duration="111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27189000" />
+    <option name="totallyTimeSpent" value="28014000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="702" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="699" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2996769" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30936995" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -554,6 +454,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -620,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="31812" selection-start-line="4" selection-start-column="31812" selection-end-line="4" selection-end-column="31812" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -829,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="31812" selection-start-line="4" selection-start-column="31812" selection-end-line="4" selection-end-column="31812" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -873,17 +772,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="29" column="140" selection-start-line="29" selection-start-column="140" selection-end-line="29" selection-end-column="140" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/TweenMax.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="17">
           <caret line="13" column="197" selection-start-line="13" selection-start-column="197" selection-end-line="13" selection-end-column="197" />
           <folding />
         </state>
@@ -891,7 +782,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/index.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1955">
+        <state relative-caret-position="2057">
           <caret line="121" column="97" selection-start-line="121" selection-start-column="97" selection-end-line="121" selection-end-column="97" />
           <folding />
         </state>
@@ -899,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
+        <state relative-caret-position="8143">
           <caret line="479" column="65" selection-start-line="479" selection-start-column="65" selection-end-line="479" selection-end-column="65" />
           <folding>
             <marker date="1493060296000" expanded="true" signature="3578:3586" ph="..." />
@@ -921,17 +812,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/docs.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
+        <state relative-caret-position="521">
           <caret line="93" column="137" selection-start-line="93" selection-start-column="137" selection-end-line="93" selection-end-column="137" />
-          <folding>
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#article#0;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#article#1;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#article#2;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#article#3;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#article#4;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#article#5;n#div#0;n#div#0;n#section#0;n#div#1;n#main#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="35" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
